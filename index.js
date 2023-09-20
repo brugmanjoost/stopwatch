@@ -1,4 +1,4 @@
-class Stopwatch {
+module.exports = class Stopwatch {
 
     #duration = 0;
     #lastStart = null;
